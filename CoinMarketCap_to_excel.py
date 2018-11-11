@@ -31,4 +31,4 @@ while nr_coins < len(listings_data):
     print(nr_coins)
     nr_coins += 100
 
-
+file.save("CoinMarketCap Data.xlsx")
